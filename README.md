@@ -1,5 +1,5 @@
-- 👋 Hola, Me llamo Fernando Nahim, soy un Joven estudiante apasionado por la ciberseguridad y desarrollo web 👀
-- 🌱 Actualmente estoy aprendiendo Javascript y React.js ...
+- 👋 Hola, Me llamo Fernando Nahim, soy un Joven estudiante apasionado por la ciberseguridad y desarrollo web 
+- 🌱 Actualmente estoy aprendiendo HTML5 y CSS
 - 💞️ Estoy Buscando colaborar en cualquier proyecto que implique aprender cosas nuevas
 - 📫 Si deseas comunicarte conmigo puedes hacerlo por telegram @NahimD
 
