@@ -4,7 +4,7 @@
   <i> ¡Echa un vistazo a mis repositorios y pongámonos en contacto! </i>
 </p>
  <p align="center">
-  <a href="www.linkedin.com/in/nahimdiaz"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" witdth="100" height="39"/>
+  <a href="https://www.linkedin.com/in/nahimdiaz/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" witdth="100" height="39"/>
   </a>
   <a href="https://twitter.com/FNahim_Diaz"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" witdth="100" height="39"/>
   </a>
@@ -14,7 +14,7 @@
   <li><p> Estoy Buscando colaborar en cualquier proyecto que implique aprender cosas nuevas</p></li>
 </ul>
 
- 
+
 <!---
 Nahim-Diaz/Nahim-Diaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
