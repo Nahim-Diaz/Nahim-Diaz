@@ -5,7 +5,7 @@
  <p align="center">
   <a href="https://www.linkedin.com/in/nahimdiaz/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" witdth="100" height="39"/>
   </a>
-  <a href="https://twitter.com/Nahim_D"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" witdth="100" height="39"/>
+  <a href="https://twitter.com/NahimDiaz_"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" witdth="100" height="39"/>
   </a>
   <a href="https://t.me/NahimD"> <img src="./images/t_logo.svg" witdth="100" height="39"/></a>
 </p>
